@@ -1,0 +1,1 @@
+## Repositório destinado a armazenamento de exemplos de operações usando SQL.
